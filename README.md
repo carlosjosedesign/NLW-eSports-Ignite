@@ -9,10 +9,10 @@ Desenhado pela [RockeatSeat](https://www.rocketseat.com.br/) para o NLW eSports 
 ## Linguagens e frameworks e Bibliotecas utilizados
  - [X] [TypeScript](https://www.typescriptlang.org/)
  - [X] Back-end
- -  - [X][Vite](https://vitejs.dev/)
- -  - [X][NodeJS](https://nodejs.org/en/)
- -  - [X][Prisma](https://www.prisma.io/)
- -  - [X][SQLite](https://www.sqlite.org/index.html)
+ -  - [X] [Vite](https://vitejs.dev/)
+ -  - [X] [NodeJS](https://nodejs.org/en/)
+ -  - [X] [Prisma](https://www.prisma.io/)
+ -  - [X] [SQLite](https://www.sqlite.org/index.html)
  - [X] Web
  -  - [X] [ReactJS](https://pt-br.reactjs.org/)
  -  - [X] [Tailwind](https://tailwindcss.com/) 
