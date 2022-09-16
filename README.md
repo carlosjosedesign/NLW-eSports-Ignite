@@ -22,3 +22,27 @@ Desenhado pela [RockeatSeat](https://www.rocketseat.com.br/) para o NLW eSports 
 
 ## Utils
 [Figma](https://www.figma.com/file/TYG12SIZtKp3uXvJfwdAbl/NLW-eSports-(Community)?node-id=6%3A23) do projeto 
+
+## Installation
+Server
+```
+npm install
+npx prisma init
+npx prisma migrate dev
+npx prisma studio
+npm run dev
+prisma
+```
+
+Web
+```
+npm install
+npm run dev
+```
+
+Mobile
+```
+npm install
+expo start
+```
+
